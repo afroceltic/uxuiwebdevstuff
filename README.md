@@ -1,2 +1,2 @@
 # uxuiwebdevstuff
-This where my stuff goes
+deployed version of website => https://afroceltic.github.io/uxuiwebdevstuff/
